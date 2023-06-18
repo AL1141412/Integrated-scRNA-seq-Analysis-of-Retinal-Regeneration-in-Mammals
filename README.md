@@ -1,0 +1,2 @@
+# Integrated-scRNA-seq-Analysis-of-Retinal-Regeneration-in-Mammals
+Integrated scRNA-seq analysis of four mammalian Muller glia cell datasets, each with a different treatment that stimulated mammalian retinal regeneration: YAP5SA transgene + NMDA treatment (Hoang et al., 2019); Ascl1 + NMDA + TSA + Stat inhibitor (Jorstad et al, 2021); Ascl1 + NMDA + TSA (Jorstad et al., 2017); Wildtype Muller glia cells
